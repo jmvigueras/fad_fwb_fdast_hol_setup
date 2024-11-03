@@ -41,7 +41,7 @@
   <body>
     <h1><span style="color:Red">Fortinet</span> - FortiADC and FortiWeb Cloud Hands-on-Lab</h1>
     <h2>Cloud and application security workshop</h2>
-    <h3>Guide and repository lab: <a href="https://github.com/fortidemoscloud/fad-fwb-hol/">FortiADC and FortiWeb Cloud HoL GitRepo</a></h3>
+    <h3>Guide and repository lab: <a href="https://github.com/fortidemoscloud/fad-fwb-fdast-hol">FortiADC and FortiWeb Cloud HoL GitRepo</a></h3>
     <hr/>
     <h3>Student data: </h3>
         <label for="email">Enter your email:</label>

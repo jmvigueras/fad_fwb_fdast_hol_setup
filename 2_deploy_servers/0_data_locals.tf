@@ -52,7 +52,7 @@ locals {
   lab_srv_type = "t3.2xlarge"
 
   # Git repository
-  git_uri          = "https://github.com/jmvigueras/fad_fwb_fdast_hol_setup.git"
+  git_uri          = "https://github.com/jmvigueras/fad_fwb_fdast_hol_setup"
   git_uri_app_path = "/fad_fwb_fdast_hol_setup/0_modules/hub-server/"
 
   # DB

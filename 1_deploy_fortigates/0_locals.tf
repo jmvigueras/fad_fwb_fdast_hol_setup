@@ -42,6 +42,7 @@ locals {
   fgt_instance_type = "c6in.large"
   fgt_build_745     = "build2702"
   fgt_build_760     = "build3401"
+  fgt_build_729     = "build1688"
   license_type      = "payg"
 
   #-----------------------------------------------------------------------------------------------------
